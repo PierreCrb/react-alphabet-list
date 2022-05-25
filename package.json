@@ -1,8 +1,8 @@
 {
-  "name": "react-alphabet-list",
-  "version": "0.1.8",
+  "name": "react-alphabet-list-v2",
+  "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/xVanTuring/Alphabet-List",
+  "homepage": "https://github.com/PierreCrb/react-alphabet-list",
   "main": "lib/index.js",
   "dependencies": {
     "react": "^16.9.0"
